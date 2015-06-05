@@ -1,2 +1,5 @@
 print "Hello World"
-print "sandwich" 
+print "sandwich"
+
+x = "pizza"
+print x
